@@ -120,3 +120,4 @@
 {"error":"{\"Error_GUID\":\"9247820914780358616\",\"Error\":\"Failed all retries {GUID:9247820914780358616,error:No pairings available.,chain_id:ETH1}\"}"}
 {"error":"{\"Error_GUID\":\"17031062313812320625\",\"Error\":\"Failed all retries {GUID:17031062313812320625,error:No pairings available.,chain_id:ETH1}\"}"}
 {"jsonrpc":"2.0","id":1,"result":"0xb70dba468"}
+{"jsonrpc":"2.0","id":1,"result":"0xa36051a53"}
